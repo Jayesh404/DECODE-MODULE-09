@@ -1,0 +1,12 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    while ('1' < '2')
+    cout << "In while loop" << endl;
+}
+
+Output:-
+
+Loops runs infinite times , and prints "In while loop"
